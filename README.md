@@ -1,21 +1,24 @@
-##Commands to activate virtual environment:
+<u>Commands to activate virtual environment:</u>
+<ul>
+    <li>**First, move into your project’s root directory (where src/ and requirements.txt will live) :**
 
-**First, move into your project’s root directory (where src/ and requirements.txt will live):**
-
-<code>cd ~/path/to/your/project</code>
+<code>cd ~/path/to/your/project</code></li>
 
 
-**Now create a virtual environment named .venv (you can name it anything, but .venv is common):**
-<code>python3 -m venv .venv</code>
+<li> **Now create a virtual environment named .venv (you can name it anything, but .venv is common) :**
+<code>python3 -m venv .venv</code></li>
 
-**activating virtual environment**:
-<code>source .venv/bin/activate</code>
+<li> **activating virtual environment :**
+<code>source .venv/bin/activate</code></li>
 
-**to deactivate**
-<code>deactivate</code>
+<li> **to deactivate :** 
+<code>deactivate</code></li>
 
-**Install All Requirements at Once**
-<code>pip install -r requirements.txt</code>
+<li> **Install All Requirements at Once :** 
+<code>pip install -r requirements.txt</code></li>
+
+</ul>
+
 
 <u><h2>Structure of our Project's folder :</h2></u>
 ```fake-url-detector/
