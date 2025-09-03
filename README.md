@@ -1,4 +1,4 @@
-#Commands to activate virtual environment:
+##Commands to activate virtual environment:
 
 **First, move into your project’s root directory (where src/ and requirements.txt will live):**
 
