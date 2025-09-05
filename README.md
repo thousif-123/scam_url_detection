@@ -44,5 +44,6 @@
 ├── 📂 tests/
 │   └── 📄 test_ui_smoke.py
 └── 📂 docs/
-    └── 🖼️ ui_wireframes.png ```
+    └── 🖼️ ui_wireframes.png 
+```
 
