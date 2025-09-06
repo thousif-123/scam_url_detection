@@ -77,4 +77,6 @@ class UIController:
     def show_about(self):
         QMessageBox.information(
             self.main_window,
+            "About",
+        "Fake URL Detector"
         )
