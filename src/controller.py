@@ -54,7 +54,7 @@ class UIController:
         self.main_window.check_btn.setEnabled(True)
         self.main_window.statusBar().showMessage("Check complete.")
 
-     def open_blacklist(self):
+    def open_blacklist(self):
         dialog = BlacklistDialog(self.main_window)
         dialog.exec_()
 
