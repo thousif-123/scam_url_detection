@@ -76,11 +76,7 @@
 │   │   ├── 📂 controllers/
 │   │   │   └── 📄 ui_controller.py  # connects UI and logic
 │   │   ├── 📂 models/
-│   │       └── 📄 table_models.py   # QAbstractTableModel classes
-│   │   
-│   │      
-├── 📂 tests/
-    └── 📄 test_ui_smoke.py
+        └── 📄 table_models.py   # QAbstractTableModel classes
 
     
 ```
