@@ -25,25 +25,25 @@
 <li>Navigate to your project folder:</li>
 
 ```powershell
-cd "C:\path\to\fake-url-detector"
+cd "C:\path\to\fake-url-detector" ```
 
 <li>Create a Virtual Environment :</li>
-
-python -m venv .venv
+```cmd
+python -m venv .venv ```
 
 <li>Activate the Virtual Environment :</li>
-
-.venv\Scripts\activate
+```cmd
+.venv\Scripts\activate ```
 
 <li>Install Dependencies</li>
-
-pip install -r requirements.txt
+```cmd
+pip install -r requirements.txt ```
 
 <li>Run the Application :</li>
-
+```cmd
 cd src
-python main.py
-```
+python main.py ```
+
 </ol>
 
 
