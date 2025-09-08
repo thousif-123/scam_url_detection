@@ -27,8 +27,6 @@
 ├── 📂 src/
 │   ├── 📄 main.py             # entrypoint (starts the app)
 │   ├── 📂 app/
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 main_window.py  # MainWindow UI class (skeleton)
 │   │   ├── 📂 dialogs/
 │   │   │   ├── 📄 blacklist.py   # Blacklist Manager dialog
 │   │   │   ├── 📄 watchlist.py
