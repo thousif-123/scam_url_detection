@@ -20,27 +20,27 @@
 </ul>
 
 
-## Open Command Prompt or PowerShel
+## Open Command Prompt or Powershell
 <ol>
 <li>Navigate to your project folder:</li>
 
 ```powershell
 cd "C:\path\to\fake-url-detector"
-```
+
 <li>Create a Virtual Environment :</li>
-```
+
 python -m venv .venv
-```
+
 <li>Activate the Virtual Environment :</li>
-```
+
 .venv\Scripts\activate
-```
+
 <li>Install Dependencies</li>
-```
+
 pip install -r requirements.txt
-```
+
 <li>Run the Application :</li>
-```
+
 cd src
 python main.py
 ```
