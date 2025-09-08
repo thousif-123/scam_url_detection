@@ -20,10 +20,15 @@
 </ul>
 
 
-<h2>To run the code in Windows <code>operating system</code>: </h2>
-<ul>
-    <li>Python 3.8+ installed. Confirm with:</li>
-     <code>python --version</code> 
+## 1️⃣ Open Command Prompt or PowerShell
+<ol>
+<li>Navigate to your project folder:</li>
+
+```powershell
+cd "C:\path\to\fake-url-detector"
+```
+</ol>
+
 
   
     
