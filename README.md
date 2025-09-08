@@ -20,10 +20,15 @@
 </ul>
 
 
-<u><h2>Structure of our Project's folder :</h2></u>
-
 <h2>To run the code in Windows <code>operating system</code>: </h2>
+<ul>
+    <li>Python 3.8+ installed. Confirm with: <code>python --version</code> </li>
 
+    <li>
+    
+</ul>
+
+<u><h2>Structure of our Project's folder :</h2></u>
 
 
 ```fake-url-detector/
