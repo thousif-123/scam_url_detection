@@ -21,6 +21,11 @@
 
 
 <u><h2>Structure of our Project's folder :</h2></u>
+
+<h2>To run the code in Windows <code>operating system</code>: </h2>
+
+
+
 ```fake-url-detector/
 ├── 📄 README.md
 ├── 📄 requirements.txt       # list of dependencies (no pip commands here)
