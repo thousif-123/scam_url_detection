@@ -22,9 +22,10 @@
 
 <h2>To run the code in Windows <code>operating system</code>: </h2>
 <ul>
-    <li>Python 3.8+ installed. Confirm with: <code>python --version</code> </li>
+    <li>Python 3.8+ installed. Confirm with:</li>
+     <code>python --version</code> 
 
-    <li>
+  
     
 </ul>
 
