@@ -20,38 +20,43 @@
 </ul>
 
 
-## Open Command Prompt or Powershell
-<ol>
-<li>Navigate to your project folder:</li>
-
-```powershell
-cd "C:\path\to\fake-url-detector"
-```
-
-<li>Create a Virtual Environment :</li>
-```cmd
-python -m venv .venv 
-```
-
-<li>Activate the Virtual Environment :</li>
-```cmd
-.venv\Scripts\activate ```
-
-<li>Install Dependencies</li>
-```cmd
-pip install -r requirements.txt ```
-
-<li>Run the Application :</li>
-```cmd
-cd src
-python main.py ```
-
-</ol>
 
 
   
     
-</ul>
+## 🖥️ Run on Windows (Command Prompt / PowerShell)
+
+1. Navigate to your project folder:
+
+    ```powershell
+    cd "C:\path\to\fake-url-detector"
+    ```
+
+2. Create a Virtual Environment:
+
+    ```powershell
+    python -m venv .venv
+    ```
+
+3. Activate the Virtual Environment:
+
+    ```powershell
+    .venv\Scripts\activate
+    ```
+
+4. Install Dependencies:
+
+    ```powershell
+    pip install -r requirements.txt
+    ```
+
+5. Run the Application:
+
+    ```powershell
+    cd src
+    python main.py
+    ```
+
 
 <u><h2>Structure of our Project's folder :</h2></u>
 
