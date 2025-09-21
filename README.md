@@ -57,27 +57,3 @@
     python main.py
     ```
 
-
-<u><h2>Structure of our Project's folder :</h2></u>
-
-
-```fake-url-detector/
-├── 📄 README.md
-├── 📄 requirements.txt       # list of dependencies (no pip commands here)
-├── 📂 src/
-│   ├── 📄 main.py             # entrypoint (starts the app)
-│   ├── 📂 app/
-│   │   ├── 📂 dialogs/
-│   │   │   ├── 📄 blacklist.py   # Blacklist Manager dialog
-│   │   │   ├── 📄 watchlist.py
-│   │   │   ├── 📄 rule_editor.py
-│   │   │   ├── 📄 settings.py
-│   │   │   └── 📄 logs.py
-│   │   ├── 📂 controllers/
-│   │   │   └── 📄 ui_controller.py  # connects UI and logic
-│   │   ├── 📂 models/
-            └── 📄 table_models.py   # QAbstractTableModel classes
-
-    
-```
-
