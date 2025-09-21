@@ -29,7 +29,7 @@
 1. Navigate to your project folder:
 
     ```powershell
-    cd "C:\path\to\fake-url-detector"
+    cd "C:\path\to\Scam_url_detection/code"
     ```
 
 2. Create a Virtual Environment:
@@ -52,8 +52,7 @@
 
 5. Run the Application:
 
-    ```powershell
-    cd src
-    python main.py
+    ```powershell 
+    pyhon3 new_testing.py
     ```
 
